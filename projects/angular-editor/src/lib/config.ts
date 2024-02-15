@@ -1,6 +1,6 @@
-import { UploadResponse } from './angular-editor.service';
 import { HttpEvent } from '@angular/common/http';
 import { Observable } from 'rxjs';
+import { UploadResponse } from './angular-editor.service';
 
 export interface CustomClass {
   name: string;
